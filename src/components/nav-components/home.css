@@ -1,0 +1,36 @@
+.homeContent {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+#profileHome {
+  border-radius: 50%;
+  border: 3px solid grey;
+  height: 150px;
+  width: 135px;
+}
+
+#introHome {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+#resumeDownload .resumeText {
+  text-align: right;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+#resumeDownload .resumeLink {
+  text-align: left;
+}
+.homeContent {
+  width: 100vw;
+  height: 90vh;
+  background-image: url("http://dswami.freevar.com/git_icons/bkgd.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.davidQuote {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
