@@ -17,7 +17,7 @@ const certificates = [
   },
   {
     _id: "3",
-    title: "The Complete Node'js Course",
+    title: "The Complete Node.js Course",
     month: 12,
     year: 2019,
     tags: [{ num: 1, name: "Web" }],

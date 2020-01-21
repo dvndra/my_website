@@ -15,7 +15,7 @@ function App() {
   return (
     <React.Fragment>
       <NavBar />
-      <main className="container mt-5 p-0 mx-0">
+      <main className="mt-5 p-0 mx-0">
         <Switch>
           <Route path="/about" component={About} />
           <Route path="/projects" component={Projects} />

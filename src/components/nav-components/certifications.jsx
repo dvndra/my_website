@@ -14,9 +14,9 @@ class Certifications extends Component {
   }
   render() {
     return (
-      <div id="mainCertificates" className="container pb-5">
+      <div id="mainCertificates" className="container-fluid pt-3 pb-5">
         {this.state.certifications.map(cArr => (
-          <div className="row px-5" key={cArr[0]._id}>
+          <div className="row px-5 py-1" key={cArr[0]._id}>
             {cArr.map(c => (
               <div className="col-md-3 certificate mt-4" key={c._id}>
                 <a
@@ -28,7 +28,7 @@ class Certifications extends Component {
                   <div className="card border-0 mx-2">
                     <img className="card-img-top" src={c.url} alt="" />
                     <div className="card-body p-2">
-                      <h5 className="card-title mb-0">{c.title}</h5>
+                      <h5 className="card-title my-1">{c.title}</h5>
                       <p className="card-text">
                         {c.tags.map(tag => (
                           <span key={tag.num}>

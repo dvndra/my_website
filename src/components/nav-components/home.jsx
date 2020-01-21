@@ -9,12 +9,12 @@ class Home extends Component {
     return (
       <div className="homeContent pt-5 m-0">
         <img
-          className="mt-5"
+          className="mt-3"
           id="profileHome"
           src={"http://dswami.freevar.com/git_icons/profile_bw.png"}
           alt=""
         />
-        <div id="introHome" className="mt-3">
+        <div id="introHome" className="mt-4">
           Passionate Machine Learning Practitioner <br /> and Software Engineer
         </div>
 
