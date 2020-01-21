@@ -28,7 +28,6 @@ const skills = [
       minimum: 0,
       maximum: 5,
       labelFormatter: function(e) {
-        console.log(e);
         return skillLevels[e.value];
       }
     },
@@ -65,7 +64,6 @@ const skills = [
       minimum: 0,
       maximum: 5,
       labelFormatter: function(e) {
-        console.log(e);
         return skillLevels[e.value];
       }
     },
@@ -103,7 +101,6 @@ const skills = [
       minimum: 0,
       maximum: 5,
       labelFormatter: function(e) {
-        console.log(e);
         return skillLevels[e.value];
       }
     },
@@ -141,7 +138,6 @@ const skills = [
       minimum: 0,
       maximum: 5,
       labelFormatter: function(e) {
-        console.log(e);
         return skillLevels[e.value];
       }
     },

@@ -22,10 +22,10 @@ function App() {
           <Route path="/skills" component={Skills} />
           <Route path="/certifications" component={Certifications} />
           <Route path="/contact" component={Contact} />
-          <Route path="/not-found" component={NotFound} />
-          <Route path="/" exact component={Home} />
-          {/* <Redirect from="/" exact to="/contact" /> */}
-          <Redirect to="/not-found" />
+          {/* <Route path="/not-found" component={Home} /> */}
+          <Route path="/" component={Home} />
+          <Redirect from="/my-website" exact to="/" />
+          {/* <Redirect to="/not-found" /> */}
         </Switch>
       </main>
       <Footer />
