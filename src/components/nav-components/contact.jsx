@@ -13,7 +13,7 @@ class Contact extends Component {
             <div className="card border-0 mx-2">
               <img
                 className="card-img-top"
-                src={"http://dswami.freevar.com/git_icons/my_location.png"}
+                src={"https://dswami.freevar.com/git_icons/my_location.png"}
                 alt=""
               />
               <div className="card-body p-2">
@@ -57,20 +57,3 @@ class Contact extends Component {
 }
 
 export default Contact;
-
-{
-  /* <img
-            id="myLocation"
-            className="col-md-8 mx-auto"
-            src={"http://dswami.freevar.com/git_icons/my_location.png"}
-            alt=""
-          />
-        </div>
-
-        <div className="row map mx-5 px-5">
-          <div className="col-md-8 mx-auto">
-            Thank you for going through my work. If you want to have a
-            discussion, feel free to reach out to me.
-          </div>
-        </div> */
-}

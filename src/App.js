@@ -8,7 +8,7 @@ import About from "./components/nav-components/about";
 import Skills from "./components/nav-components/skills";
 import Certifications from "./components/nav-components/certifications";
 import Contact from "./components/nav-components/contact";
-import NotFound from "./components/not-found";
+// import NotFound from "./components/not-found";
 import Home from "./components/nav-components/home";
 
 function App() {

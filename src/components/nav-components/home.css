@@ -1,6 +1,8 @@
 .homeContent {
   text-align: center;
   font-family: "Raleway", sans-serif;
+  overflow-x: hidden;
+  height: 93vh;
 }
 
 #profileHome {

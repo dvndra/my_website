@@ -11,11 +11,11 @@ class Home extends Component {
         <img
           className="mt-3"
           id="profileHome"
-          src={"http://dswami.freevar.com/git_icons/profile_bw.png"}
+          src={"https://dswami.freevar.com/git_icons/profile_bw.png"}
           alt=""
         />
         <div id="introHome" className="mt-4">
-          Passionate Machine Learning Practitioner <br /> and Software Engineer
+          Passionate Machine Learning <br /> and Software Engineer
         </div>
 
         <div className="mt-4 pt-4 row" id="resumeDownload">
@@ -25,7 +25,7 @@ class Home extends Component {
           </div>
           <a
             className="col resumeLink"
-            href="http://dswami.freevar.com/cloud_docs/Devendra_Swami.pdf"
+            href="https://dswami.freevar.com/cloud_docs/Devendra_Swami.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -5,11 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  width: 100vw;
-  height: 93vh;
-  background-image: url("http://dswami.freevar.com/git_icons/bkgd.jpg");
+
+  background-image: url("https://dswami.freevar.com/git_icons/bkgd.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  overflow-x: hidden;
 }
 
 code {

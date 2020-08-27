@@ -8,7 +8,7 @@ class About extends Component {
         <img
           className="mt-3"
           id="profileAbout"
-          src={"http://dswami.freevar.com/git_icons/profile_bw.png"}
+          src={"https://dswami.freevar.com/git_icons/profile_bw.png"}
           alt=""
         />
         <div id="introAbout" className="mt-3 col-md-7 my-5 mx-auto px-1">
@@ -27,6 +27,7 @@ class About extends Component {
             href={"https://github.com/dvndra"}
             alt=""
             target="_blank"
+            rel="noopener noreferrer"
           >
             {" "}
             here
@@ -36,6 +37,7 @@ class About extends Component {
           <br />
           Apart from watching movies and tv shows in my spare time as usual, I
           also enjoy playing outdoor sports and going for short hikes nearby.
+          <br /> <br />
         </div>
       </div>
     );

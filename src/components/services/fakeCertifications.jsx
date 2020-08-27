@@ -5,7 +5,7 @@ const certificates = [
     month: 12,
     year: 2019,
     tags: [{ num: 1, name: "Web" }],
-    url: "http://dswami.freevar.com/cloud_docs/certifications/react_mosh.png"
+    url: "https://dswami.freevar.com/cloud_docs/certifications/react_mosh.png",
   },
   {
     _id: "2",
@@ -13,7 +13,8 @@ const certificates = [
     month: 12,
     year: 2019,
     tags: [{ num: 1, name: "Web" }],
-    url: "http://dswami.freevar.com/cloud_docs/certifications/angular_mosh.png"
+    url:
+      "https://dswami.freevar.com/cloud_docs/certifications/angular_mosh.png",
   },
   {
     _id: "3",
@@ -21,7 +22,7 @@ const certificates = [
     month: 12,
     year: 2019,
     tags: [{ num: 1, name: "Web" }],
-    url: "http://dswami.freevar.com/cloud_docs/certifications/node_mosh.png"
+    url: "https://dswami.freevar.com/cloud_docs/certifications/node_mosh.png",
   },
   {
     _id: "4",
@@ -29,7 +30,8 @@ const certificates = [
     month: 10,
     year: 2019,
     tags: [{ num: 1, name: "Web" }],
-    url: "http://dswami.freevar.com/cloud_docs/certifications/web_coursera.png"
+    url:
+      "https://dswami.freevar.com/cloud_docs/certifications/web_coursera.png",
   },
   {
     _id: "5",
@@ -38,10 +40,10 @@ const certificates = [
     year: 2019,
     tags: [
       { num: 1, name: "Deep Learning" },
-      { num: 2, name: "AI" }
+      { num: 2, name: "AI" },
     ],
     url:
-      "http://dswami.freevar.com/cloud_docs/certifications/dl_specialization_coursera.png"
+      "https://dswami.freevar.com/cloud_docs/certifications/dl_specialization_coursera.png",
   },
   {
     _id: "6",
@@ -51,10 +53,10 @@ const certificates = [
     tags: [
       { num: 1, name: "Deep Learning" },
       { num: 2, name: "AI" },
-      { num: 3, name: "NLP" }
+      { num: 3, name: "NLP" },
     ],
     url:
-      "http://dswami.freevar.com/cloud_docs/certifications/sequence_models_coursera.png"
+      "https://dswami.freevar.com/cloud_docs/certifications/sequence_models_coursera.png",
   },
   {
     _id: "7",
@@ -64,9 +66,10 @@ const certificates = [
     tags: [
       { num: 1, name: "Deep Learning" },
       { num: 2, name: "AI" },
-      { num: 3, name: "Vision" }
+      { num: 3, name: "Vision" },
     ],
-    url: "http://dswami.freevar.com/cloud_docs/certifications/cnn_coursera.png"
+    url:
+      "https://dswami.freevar.com/cloud_docs/certifications/cnn_coursera.png",
   },
   {
     _id: "8",
@@ -75,10 +78,10 @@ const certificates = [
     year: 2019,
     tags: [
       { num: 1, name: "Deep Learning" },
-      { num: 2, name: "AI" }
+      { num: 2, name: "AI" },
     ],
     url:
-      "http://dswami.freevar.com/cloud_docs/certifications/hyperparameters_coursera.png"
+      "https://dswami.freevar.com/cloud_docs/certifications/hyperparameters_coursera.png",
   },
   {
     _id: "9",
@@ -87,9 +90,10 @@ const certificates = [
     year: 2019,
     tags: [
       { num: 1, name: "Deep Learning" },
-      { num: 2, name: "AI" }
+      { num: 2, name: "AI" },
     ],
-    url: "http://dswami.freevar.com/cloud_docs/certifications/ann_coursera.png"
+    url:
+      "https://dswami.freevar.com/cloud_docs/certifications/ann_coursera.png",
   },
   {
     _id: "10",
@@ -99,10 +103,10 @@ const certificates = [
     tags: [
       { num: 1, name: "Deep Learning" },
       { num: 2, name: "AI" },
-      { num: 3, name: "ML" }
+      { num: 3, name: "ML" },
     ],
     url:
-      "http://dswami.freevar.com/cloud_docs/certifications/structure_ml_coursera.png"
+      "https://dswami.freevar.com/cloud_docs/certifications/structure_ml_coursera.png",
   },
   {
     _id: "11",
@@ -111,9 +115,9 @@ const certificates = [
     year: 2017,
     tags: [
       { num: 1, name: "ML" },
-      { num: 2, name: "AI" }
+      { num: 2, name: "AI" },
     ],
-    url: "http://dswami.freevar.com/cloud_docs/certifications/ml_coursera.png"
+    url: "https://dswami.freevar.com/cloud_docs/certifications/ml_coursera.png",
   },
   {
     _id: "12",
@@ -122,7 +126,7 @@ const certificates = [
     year: 2018,
     tags: [{ num: 1, name: "Analytics" }],
     url:
-      "http://dswami.freevar.com/cloud_docs/certifications/intro_ds_coursera.png"
+      "https://dswami.freevar.com/cloud_docs/certifications/intro_ds_coursera.png",
   },
   {
     _id: "13",
@@ -131,8 +135,8 @@ const certificates = [
     year: 2018,
     tags: [{ num: 1, name: "Personal Skills" }],
     url:
-      "http://dswami.freevar.com/cloud_docs/certifications/time_management.png"
-  }
+      "https://dswami.freevar.com/cloud_docs/certifications/time_management.png",
+  },
 ];
 
 export function getCertificates() {
@@ -140,5 +144,5 @@ export function getCertificates() {
 }
 
 export function getCertificate(id) {
-  return certificates.find(c => c._id === id);
+  return certificates.find((c) => c._id === id);
 }

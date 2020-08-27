@@ -6,7 +6,7 @@ import {
   faLinkedin,
   faTwitterSquare,
   faInstagram,
-  faFacebookSquare
+  faFacebookSquare,
 } from "@fortawesome/free-brands-svg-icons";
 import "./navBar.css";
 // import { faEnvelopeSquare } from "@fortawesome/free-solid-svg-icons";
