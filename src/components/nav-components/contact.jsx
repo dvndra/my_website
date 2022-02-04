@@ -13,7 +13,7 @@ class Contact extends Component {
             <div className="card border-0 mx-2">
               <img
                 className="card-img-top"
-                src={"https://dswami.freevar.com/git_icons/my_location.png"}
+                src={"https://miro.medium.com/max/1838/0*ePzVZr7I9DP8fw4N."}
                 alt=""
               />
               <div className="card-body p-2">

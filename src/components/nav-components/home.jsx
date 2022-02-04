@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import "./home.css";
+import profile_pic from '../../images/git_icons/profile_bw.png';
+import resume from '../../images/cloud_docs/Devendra_Swami.pdf';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 
@@ -11,11 +13,11 @@ class Home extends Component {
         <img
           className="mt-3"
           id="profileHome"
-          src={"https://dswami.freevar.com/git_icons/profile_bw.png"}
+          src={profile_pic}
           alt=""
         />
         <div id="introHome" className="mt-4">
-          Passionate Machine Learning <br /> and Software Engineer
+        Software Engineer and <br /> Machine Learning Enthusiast
         </div>
 
         <div className="mt-4 pt-4 row" id="resumeDownload">
@@ -25,7 +27,7 @@ class Home extends Component {
           </div>
           <a
             className="col resumeLink"
-            href="https://dswami.freevar.com/cloud_docs/Devendra_Swami.pdf"
+            href={resume}
             target="_blank"
             rel="noopener noreferrer"
           >

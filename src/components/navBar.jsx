@@ -16,7 +16,7 @@ const NavBar = () => {
     <nav className="navbar fixed-top navbar-expand-sm navbar-dark bg-dark">
       <Link className="navbar-brand mx-3 my-0 py-0" to="/">
         <img
-          src="http://dswami.freevar.com/git_icons/logo.svg"
+          src="https://dswami.freevar.com/git_icons/logo.svg"
           width="30"
           height="30"
           alt=""

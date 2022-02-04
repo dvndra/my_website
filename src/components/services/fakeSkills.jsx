@@ -83,7 +83,7 @@ const skills = [
   },
   {
     title: {
-      text: "Web & Mobile Development",
+      text: "Web Development",
       padding: 20,
       fontSize: 25
     },
@@ -112,15 +112,16 @@ const skills = [
           { label: "HTML", y: 4, color: colorBar },
           { label: "CSS", y: 4, color: colorBar },
           { label: "JavaScript", y: 4, color: colorBar },
-          { label: "Android", y: 3, color: colorBar },
+          { label: "Django", y: 3, color: colorBar },
           { label: "PHP", y: 3, color: colorBar }
+          
         ]
       }
     ]
   },
   {
     title: {
-      text: "Information Retrieval",
+      text: "DevOps",
       padding: 20,
       fontSize: 25
     },
@@ -146,10 +147,11 @@ const skills = [
       {
         type: "column",
         dataPoints: [
-          { label: "SQL", y: 4, color: colorBar },
-          { label: "NoSQL", y: 2, color: colorBar },
-          { label: "SparkQL", y: 3, color: colorBar },
-          { label: "Web Crawling", y: 3, color: colorBar }
+          { label: "Ansible", y: 4, color: colorBar },
+          { label: "Docker", y: 3, color: colorBar },
+          { label: "Jenkins", y: 2, color: colorBar },
+          { label: "Git", y: 3, color: colorBar },
+          { label: "Splunk", y: 3, color: colorBar }
         ]
       }
     ]

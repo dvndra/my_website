@@ -12,7 +12,7 @@ const projects = [
     description:
       "Implemented OS concepts involving Processes, Threads, Scheduler, Mutex, Virtual File System & Virtual Memory. Provided APIs to interface between Weenix and actual file system or physical memory. Supported user space programs through system calls. Tested design on hardware virtualization software (QEMU).",
     github: "https://bitbucket.org/dvndra/kernel_1.git",
-    imageUrl: "https://dswami.freevar.com/git_icons/weenix_os.png",
+    imageUrl: "https://github.com/dvndra/git_images/blob/main/git_icons/weenix_os.png?raw=true",
   },
   {
     _id: "2",
@@ -47,7 +47,7 @@ const projects = [
     description:
       "Leveraged pre-trained VGG 19 weights to generate styled images using transfer learning. The generated image is obtained from minimizing custom cost function comprising of content and style cost. Published detailed procedure for quick integration with existing pipelines.",
     github: "https://github.com/dvndra/neural_style",
-    imageUrl: "https://dswami.freevar.com/git_icons/neural_style.png",
+    imageUrl: "https://github.com/dvndra/git_images/blob/main/git_icons/neural_style.png?raw=true",
   },
 
   {
@@ -66,7 +66,7 @@ const projects = [
       "Investigated various features extracted from a user review posted at iOS App Store to predict whether developers will respond to that review. Leveraged machine learning models to derive key research insights and published them in ACM affiliated conferences.",
     github: "https://github.com/Kamonphop/ESEM20-Replication",
     imageUrl:
-      "https://cnet2.cbsistatic.com/img/pYJt2Z39Q0bGP5fkI6PxDiNA-rE=/1092x0/2019/02/14/26c3e9f6-009a-4f0d-bc24-0e5f3f8a1b52/gettyimages-1079368724.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-app-store.jpg",
   },
   {
     _id: "4",
@@ -82,7 +82,7 @@ const projects = [
     description:
       "Developed car detection model for Autonomous Car Driving using YOLO algorithm. The project used separate anchor boxes to detect overlapping objects and draw associated bounding boxes with non-max suppression.",
     github: "https://github.com/dvndra/car_detection_yolo",
-    imageUrl: "https://dswami.freevar.com/git_icons/yolo_car.jpg",
+    imageUrl: "https://github.com/dvndra/git_images/blob/main/git_icons/yolo_car.jpg?raw=true",
   },
   {
     _id: "5",
@@ -98,7 +98,7 @@ const projects = [
     description:
       "Implemented one shot learning with FaceNet architecture considering triplet loss between anchor, positive and negative images. ",
     github: "https://github.com/dvndra/face_recognition",
-    imageUrl: "https://dswami.freevar.com/git_icons/face_recognition.jpg",
+    imageUrl: "https://github.com/dvndra/git_images/blob/main/git_icons/face_recognition.jpg?raw=true",
   },
   {
     _id: "6",
@@ -129,7 +129,7 @@ const projects = [
     description:
       "Implemented parallax effect with HTML and CSS only by developing dummy profile website of an imaginary food stylist.",
     github: "https://github.com/dvndra/parallax_with_CSS",
-    imageUrl: "https://dswami.freevar.com/git_icons/coffee2.jpg",
+    imageUrl: "https://github.com/dvndra/git_images/blob/main/git_icons/coffee2.jpg?raw=true",
   },
 ];
 

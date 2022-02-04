@@ -4,6 +4,7 @@ import "./projects.css";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTag } from "@fortawesome/free-solid-svg-icons";
+import imageUrl from '../../images/cloud_docs/certifications/react_mosh.png';
 
 class Projects extends Component {
   state = { projects: getProjects() };

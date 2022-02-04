@@ -5,7 +5,7 @@ const certificates = [
     month: 12,
     year: 2019,
     tags: [{ num: 1, name: "Web" }],
-    url: "https://dswami.freevar.com/cloud_docs/certifications/react_mosh.png",
+    url: "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/react_mosh.png?raw=true",
   },
   {
     _id: "2",
@@ -14,7 +14,7 @@ const certificates = [
     year: 2019,
     tags: [{ num: 1, name: "Web" }],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/angular_mosh.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/angular_mosh.png?raw=true",
   },
   {
     _id: "3",
@@ -22,7 +22,7 @@ const certificates = [
     month: 12,
     year: 2019,
     tags: [{ num: 1, name: "Web" }],
-    url: "https://dswami.freevar.com/cloud_docs/certifications/node_mosh.png",
+    url: "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/node_mosh.png?raw=true",
   },
   {
     _id: "4",
@@ -31,7 +31,7 @@ const certificates = [
     year: 2019,
     tags: [{ num: 1, name: "Web" }],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/web_coursera.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/web_coursera.png?raw=true",
   },
   {
     _id: "5",
@@ -43,7 +43,7 @@ const certificates = [
       { num: 2, name: "AI" },
     ],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/dl_specialization_coursera.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/dl_specialization_coursera.png?raw=true",
   },
   {
     _id: "6",
@@ -56,7 +56,7 @@ const certificates = [
       { num: 3, name: "NLP" },
     ],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/sequence_models_coursera.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/sequence_models_coursera.png?raw=true",
   },
   {
     _id: "7",
@@ -69,7 +69,7 @@ const certificates = [
       { num: 3, name: "Vision" },
     ],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/cnn_coursera.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/cnn_coursera.png?raw=true",
   },
   {
     _id: "8",
@@ -81,7 +81,7 @@ const certificates = [
       { num: 2, name: "AI" },
     ],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/hyperparameters_coursera.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/hyperparameters_coursera.png?raw=true",
   },
   {
     _id: "9",
@@ -93,7 +93,7 @@ const certificates = [
       { num: 2, name: "AI" },
     ],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/ann_coursera.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/ann_coursera.png?raw=true",
   },
   {
     _id: "10",
@@ -106,7 +106,7 @@ const certificates = [
       { num: 3, name: "ML" },
     ],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/structure_ml_coursera.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/structure_ml_coursera.png?raw=true",
   },
   {
     _id: "11",
@@ -117,7 +117,7 @@ const certificates = [
       { num: 1, name: "ML" },
       { num: 2, name: "AI" },
     ],
-    url: "https://dswami.freevar.com/cloud_docs/certifications/ml_coursera.png",
+    url: "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/ml_coursera.png?raw=true",
   },
   {
     _id: "12",
@@ -126,7 +126,7 @@ const certificates = [
     year: 2018,
     tags: [{ num: 1, name: "Analytics" }],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/intro_ds_coursera.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/intro_ds_coursera.png?raw=true",
   },
   {
     _id: "13",
@@ -135,7 +135,7 @@ const certificates = [
     year: 2018,
     tags: [{ num: 1, name: "Personal Skills" }],
     url:
-      "https://dswami.freevar.com/cloud_docs/certifications/time_management.png",
+      "https://github.com/dvndra/git_images/blob/main/cloud_docs/certifications/time_management.png?raw=true",
   },
 ];
 
