@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "838f695db5fc0790c68e5d78a5798300",
+    "revision": "d8118ad8ff0cdcadfa9d42e6a03aaf2c",
     "url": "/my_website/index.html"
   },
   {
-    "revision": "b3077072f08b1c79aca7",
-    "url": "/my_website/static/css/2.abb7ae38.chunk.css"
+    "revision": "0defc8473c87cd272892",
+    "url": "/my_website/static/css/2.a3d403f0.chunk.css"
   },
   {
-    "revision": "cb375bebd9fc00d607a5",
-    "url": "/my_website/static/css/main.64e6a774.chunk.css"
+    "revision": "436a61c5e541f0075a27",
+    "url": "/my_website/static/css/main.ce553c44.chunk.css"
   },
   {
-    "revision": "b3077072f08b1c79aca7",
-    "url": "/my_website/static/js/2.09d40ebd.chunk.js"
+    "revision": "0defc8473c87cd272892",
+    "url": "/my_website/static/js/2.7d959739.chunk.js"
   },
   {
     "revision": "a680856a4903381d69a83276068aa227",
-    "url": "/my_website/static/js/2.09d40ebd.chunk.js.LICENSE.txt"
+    "url": "/my_website/static/js/2.7d959739.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb375bebd9fc00d607a5",
-    "url": "/my_website/static/js/main.72c9ce7e.chunk.js"
+    "revision": "436a61c5e541f0075a27",
+    "url": "/my_website/static/js/main.08550d8b.chunk.js"
   },
   {
     "revision": "26923d68cc1aa8e09cb1",
     "url": "/my_website/static/js/runtime-main.1985f40d.js"
+  },
+  {
+    "revision": "96e7c0f1ba4de2c64af358021d56d72c",
+    "url": "/my_website/static/media/Devendra_Swami.96e7c0f1.pdf"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -46,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/my_website/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "65cdabd79ab3b3bfbc48cb19a9486451",
+    "url": "/my_website/static/media/profile_bw.65cdabd7.png"
   }
 ]);
