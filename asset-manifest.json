@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/my_website/static/css/main.ce553c44.chunk.css",
-    "main.js": "/my_website/static/js/main.08550d8b.chunk.js",
-    "main.js.map": "/my_website/static/js/main.08550d8b.chunk.js.map",
-    "runtime-main.js": "/my_website/static/js/runtime-main.1985f40d.js",
-    "runtime-main.js.map": "/my_website/static/js/runtime-main.1985f40d.js.map",
-    "static/css/2.a3d403f0.chunk.css": "/my_website/static/css/2.a3d403f0.chunk.css",
-    "static/js/2.7d959739.chunk.js": "/my_website/static/js/2.7d959739.chunk.js",
-    "static/js/2.7d959739.chunk.js.map": "/my_website/static/js/2.7d959739.chunk.js.map",
-    "index.html": "/my_website/index.html",
-    "precache-manifest.0cf2e1ed76a4aeb9a23f17f9f84dc703.js": "/my_website/precache-manifest.0cf2e1ed76a4aeb9a23f17f9f84dc703.js",
-    "service-worker.js": "/my_website/service-worker.js",
-    "static/css/2.a3d403f0.chunk.css.map": "/my_website/static/css/2.a3d403f0.chunk.css.map",
-    "static/css/main.ce553c44.chunk.css.map": "/my_website/static/css/main.ce553c44.chunk.css.map",
-    "static/js/2.7d959739.chunk.js.LICENSE.txt": "/my_website/static/js/2.7d959739.chunk.js.LICENSE.txt",
-    "static/media/Devendra_Swami.pdf": "/my_website/static/media/Devendra_Swami.96e7c0f1.pdf",
-    "static/media/font-awesome.css": "/my_website/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/profile_bw.png": "/my_website/static/media/profile_bw.65cdabd7.png"
+    "main.css": "/static/css/main.ce553c44.chunk.css",
+    "main.js": "/static/js/main.977cc820.chunk.js",
+    "main.js.map": "/static/js/main.977cc820.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.54ec0ee2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.54ec0ee2.js.map",
+    "static/css/2.1aa70249.chunk.css": "/static/css/2.1aa70249.chunk.css",
+    "static/js/2.7d959739.chunk.js": "/static/js/2.7d959739.chunk.js",
+    "static/js/2.7d959739.chunk.js.map": "/static/js/2.7d959739.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bc259a3d2b2fc0c2b933203156e1196f.js": "/precache-manifest.bc259a3d2b2fc0c2b933203156e1196f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1aa70249.chunk.css.map": "/static/css/2.1aa70249.chunk.css.map",
+    "static/css/main.ce553c44.chunk.css.map": "/static/css/main.ce553c44.chunk.css.map",
+    "static/js/2.7d959739.chunk.js.LICENSE.txt": "/static/js/2.7d959739.chunk.js.LICENSE.txt",
+    "static/media/Devendra_Swami.pdf": "/static/media/Devendra_Swami.96e7c0f1.pdf",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/profile_bw.png": "/static/media/profile_bw.65cdabd7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1985f40d.js",
-    "static/css/2.a3d403f0.chunk.css",
+    "static/js/runtime-main.54ec0ee2.js",
+    "static/css/2.1aa70249.chunk.css",
     "static/js/2.7d959739.chunk.js",
     "static/css/main.ce553c44.chunk.css",
-    "static/js/main.08550d8b.chunk.js"
+    "static/js/main.977cc820.chunk.js"
   ]
 }
