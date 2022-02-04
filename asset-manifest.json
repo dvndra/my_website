@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my_website/static/css/main.3f974d55.css",
-    "main.js": "/my_website/static/js/main.eab46b6e.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/my_website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/Devendra_Swami.pdf": "/my_website/static/media/Devendra_Swami.83e9d5fa4cbf39976723.pdf",
-    "static/media/fontawesome-webfont.eot": "/my_website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/my_website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/my_website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my_website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/profile_bw.png": "/my_website/static/media/profile_bw.5e471738d71964906db8.png",
-    "index.html": "/my_website/index.html",
-    "main.3f974d55.css.map": "/my_website/static/css/main.3f974d55.css.map",
-    "main.eab46b6e.js.map": "/my_website/static/js/main.eab46b6e.js.map"
+    "main.css": "/static/css/main.6310bba7.css",
+    "main.js": "/static/js/main.8fbebcc7.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Devendra_Swami.pdf": "/static/media/Devendra_Swami.83e9d5fa4cbf39976723.pdf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/profile_bw.png": "/static/media/profile_bw.5e471738d71964906db8.png",
+    "index.html": "/index.html",
+    "main.6310bba7.css.map": "/static/css/main.6310bba7.css.map",
+    "main.8fbebcc7.js.map": "/static/js/main.8fbebcc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f974d55.css",
-    "static/js/main.eab46b6e.js"
+    "static/css/main.6310bba7.css",
+    "static/js/main.8fbebcc7.js"
   ]
 }
