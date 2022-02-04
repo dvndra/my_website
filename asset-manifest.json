@@ -1,28 +1,20 @@
 {
   "files": {
-    "main.css": "/dvndra.github.io/static/css/main.ce553c44.chunk.css",
-    "main.js": "/dvndra.github.io/static/js/main.3369f90b.chunk.js",
-    "main.js.map": "/dvndra.github.io/static/js/main.3369f90b.chunk.js.map",
-    "runtime-main.js": "/dvndra.github.io/static/js/runtime-main.19d2be63.js",
-    "runtime-main.js.map": "/dvndra.github.io/static/js/runtime-main.19d2be63.js.map",
-    "static/css/2.da9c1ac6.chunk.css": "/dvndra.github.io/static/css/2.da9c1ac6.chunk.css",
-    "static/js/2.7d959739.chunk.js": "/dvndra.github.io/static/js/2.7d959739.chunk.js",
-    "static/js/2.7d959739.chunk.js.map": "/dvndra.github.io/static/js/2.7d959739.chunk.js.map",
-    "index.html": "/dvndra.github.io/index.html",
-    "precache-manifest.b69f90c1c7ed44048600e544ef11dbe6.js": "/dvndra.github.io/precache-manifest.b69f90c1c7ed44048600e544ef11dbe6.js",
-    "service-worker.js": "/dvndra.github.io/service-worker.js",
-    "static/css/2.da9c1ac6.chunk.css.map": "/dvndra.github.io/static/css/2.da9c1ac6.chunk.css.map",
-    "static/css/main.ce553c44.chunk.css.map": "/dvndra.github.io/static/css/main.ce553c44.chunk.css.map",
-    "static/js/2.7d959739.chunk.js.LICENSE.txt": "/dvndra.github.io/static/js/2.7d959739.chunk.js.LICENSE.txt",
-    "static/media/Devendra_Swami.pdf": "/dvndra.github.io/static/media/Devendra_Swami.96e7c0f1.pdf",
-    "static/media/font-awesome.css": "/dvndra.github.io/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/profile_bw.png": "/dvndra.github.io/static/media/profile_bw.65cdabd7.png"
+    "main.css": "/my_website/static/css/main.3f974d55.css",
+    "main.js": "/my_website/static/js/main.eab46b6e.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/my_website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Devendra_Swami.pdf": "/my_website/static/media/Devendra_Swami.83e9d5fa4cbf39976723.pdf",
+    "static/media/fontawesome-webfont.eot": "/my_website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/my_website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/my_website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my_website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/profile_bw.png": "/my_website/static/media/profile_bw.5e471738d71964906db8.png",
+    "index.html": "/my_website/index.html",
+    "main.3f974d55.css.map": "/my_website/static/css/main.3f974d55.css.map",
+    "main.eab46b6e.js.map": "/my_website/static/js/main.eab46b6e.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.19d2be63.js",
-    "static/css/2.da9c1ac6.chunk.css",
-    "static/js/2.7d959739.chunk.js",
-    "static/css/main.ce553c44.chunk.css",
-    "static/js/main.3369f90b.chunk.js"
+    "static/css/main.3f974d55.css",
+    "static/js/main.eab46b6e.js"
   ]
 }
